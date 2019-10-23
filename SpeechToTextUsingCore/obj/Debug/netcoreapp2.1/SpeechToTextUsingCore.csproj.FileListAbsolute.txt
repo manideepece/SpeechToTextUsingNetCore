@@ -1,0 +1,11 @@
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\bin\Debug\netcoreapp2.1\SpeechToTextUsingCore.deps.json
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\bin\Debug\netcoreapp2.1\SpeechToTextUsingCore.runtimeconfig.json
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\bin\Debug\netcoreapp2.1\SpeechToTextUsingCore.runtimeconfig.dev.json
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\bin\Debug\netcoreapp2.1\SpeechToTextUsingCore.dll
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\obj\Debug\netcoreapp2.1\SpeechToTextUsingCore.csprojAssemblyReference.cache
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\obj\Debug\netcoreapp2.1\SpeechToTextUsingCore.csproj.CoreCompileInputs.cache
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\obj\Debug\netcoreapp2.1\SpeechToTextUsingCore.AssemblyInfoInputs.cache
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\obj\Debug\netcoreapp2.1\SpeechToTextUsingCore.AssemblyInfo.cs
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\bin\Debug\netcoreapp2.1\SpeechToTextUsingCore.pdb
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\obj\Debug\netcoreapp2.1\SpeechToTextUsingCore.dll
+C:\MyProjects\Self\SpeechToTextUsingCore\SpeechToTextUsingCore\obj\Debug\netcoreapp2.1\SpeechToTextUsingCore.pdb
