@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToTextUsingCore", "SpeechToTextUsingCore\SpeechToTextUsingCore.csproj", "{95F4016B-90F4-4806-8B40-5909A49A9B87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechToTextUsingCore", "SpeechToTextUsingCore\SpeechToTextUsingCore.csproj", "{95F4016B-90F4-4806-8B40-5909A49A9B87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechToTextClassLibrary", "SpeechToTextClassLibrary\SpeechToTextClassLibrary.csproj", "{CA28DC64-A0E4-4C4A-894B-DF8177B49753}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechToTextWindowsApplication", "SpeechToTextWindowsApplication\SpeechToTextWindowsApplication.csproj", "{DFA3E1B3-E843-4FF9-847B-64E9799F8953}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{95F4016B-90F4-4806-8B40-5909A49A9B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F4016B-90F4-4806-8B40-5909A49A9B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F4016B-90F4-4806-8B40-5909A49A9B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA28DC64-A0E4-4C4A-894B-DF8177B49753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA28DC64-A0E4-4C4A-894B-DF8177B49753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA28DC64-A0E4-4C4A-894B-DF8177B49753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA28DC64-A0E4-4C4A-894B-DF8177B49753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA3E1B3-E843-4FF9-847B-64E9799F8953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA3E1B3-E843-4FF9-847B-64E9799F8953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA3E1B3-E843-4FF9-847B-64E9799F8953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA3E1B3-E843-4FF9-847B-64E9799F8953}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
